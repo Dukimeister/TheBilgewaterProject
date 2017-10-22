@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Bilgewater Project", "The Bilgewater Project.csproj", "{EDBDEC44-3E20-C804-8846-F698087314D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Bilgewater Project.Plugins", "The Bilgewater Project.Plugins.csproj", "{737742D3-2ADE-7725-A3D8-2751F07543DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Bilgewater Project.Editor", "The Bilgewater Project.Editor.csproj", "{61764415-F83E-40FE-99C3-6FA1BA29E238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Bilgewater Project.Editor.Plugins", "The Bilgewater Project.Editor.Plugins.csproj", "{2187741E-9E11-D836-2722-B0E6BE8F4C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBDEC44-3E20-C804-8846-F698087314D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBDEC44-3E20-C804-8846-F698087314D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBDEC44-3E20-C804-8846-F698087314D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBDEC44-3E20-C804-8846-F698087314D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737742D3-2ADE-7725-A3D8-2751F07543DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737742D3-2ADE-7725-A3D8-2751F07543DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737742D3-2ADE-7725-A3D8-2751F07543DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737742D3-2ADE-7725-A3D8-2751F07543DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61764415-F83E-40FE-99C3-6FA1BA29E238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61764415-F83E-40FE-99C3-6FA1BA29E238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61764415-F83E-40FE-99C3-6FA1BA29E238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61764415-F83E-40FE-99C3-6FA1BA29E238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2187741E-9E11-D836-2722-B0E6BE8F4C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2187741E-9E11-D836-2722-B0E6BE8F4C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2187741E-9E11-D836-2722-B0E6BE8F4C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2187741E-9E11-D836-2722-B0E6BE8F4C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
